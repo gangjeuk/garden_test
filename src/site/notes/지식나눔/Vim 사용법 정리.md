@@ -7,7 +7,7 @@
 Practical Vim - Drew Neil
 
 # Cheet Sheet
-![[image-20231011111408136.png-center\|image-20231011111408136.png-center]]
+![image-20231011111408136.png](/img/user/%EC%A7%80%EC%8B%9D%EB%82%98%EB%88%94/assets/Vim%20%EC%82%AC%EC%9A%A9%EB%B2%95%20%EC%A0%95%EB%A6%AC/image-20231011111408136.png)
 
 
 # 기본
@@ -29,7 +29,7 @@ Practical Vim - Drew Neil
 ### 파일 사이 이동
 ## 이동
 ### 단어 단위(word 단위) 이동
-![[image-20231011111752868.png-center-round\|image-20231011111752868.png-center-round]]
+![image-20231011111752868.png](/img/user/%EC%A7%80%EC%8B%9D%EB%82%98%EB%88%94/assets/Vim%20%EC%82%AC%EC%9A%A9%EB%B2%95%20%EC%A0%95%EB%A6%AC/image-20231011111752868.png)
 
 
 | 명령 | 커서 이동                                            |
