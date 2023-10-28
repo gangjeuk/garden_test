@@ -26,7 +26,7 @@ ELF(Executable and Linking Format)은 대표적으로 3가지 유형의 타입�
 
 역할을 기준으로 나타낸 그림을 살펴보면 아래와 같다
 
-![image-20231005122731689.png](/img/user/CTF/Basic/assets/ELF%20%ED%8C%8C%EC%9D%BC%20%ED%98%95%EC%8B%9D%EC%97%90%EC%84%9C%20%EC%9E%AC%EB%B0%B0%EC%B9%98(Relocation),%20%EB%A7%81%ED%82%B9(Linking)%20%EA%B9%8C%EC%A7%80/image-20231005122731689.png)
+![[image-20231005122731689.png-center\|image-20231005122731689.png-center]]
 
 - ELF Header: 파일의 구성에 대한 ''road map''을 가진다
 	- ELF 파일 형식, 실행 머신의 아키텍처 등
@@ -109,7 +109,7 @@ gcc -c -ffreestanding global.c
 
 먼저 Data Type 은 다음과 같다.
 
-![image-20231006122304854.png](/img/user/CTF/Basic/assets/ELF%20%ED%8C%8C%EC%9D%BC%20%ED%98%95%EC%8B%9D%EC%97%90%EC%84%9C%20%EC%9E%AC%EB%B0%B0%EC%B9%98(Relocation),%20%EB%A7%81%ED%82%B9(Linking)%20%EA%B9%8C%EC%A7%80/image-20231006122304854.png)
+![[image-20231006122304854.png-center\|image-20231006122304854.png-center]]
 
 ## File header
 ```c
@@ -144,7 +144,7 @@ Elf64_Half e_shstrndx; /* Section name string table index */
 
 각 헤더는 엔트리로 구성되고 다음과 같은 구조로 되어있다.
 
-![entries.png](/img/user/CTF/Basic/assets/ELF%20%ED%8C%8C%EC%9D%BC%20%ED%98%95%EC%8B%9D%EC%97%90%EC%84%9C%20%EC%9E%AC%EB%B0%B0%EC%B9%98(Relocation),%20%EB%A7%81%ED%82%B9(Linking)%20%EA%B9%8C%EC%A7%80/entries.png)
+![[entries.png-center\|entries.png-center]]
 ### Section header entry
 먼저 Section entry의 구조체의 경우 다음과 같은 구조로 되어있다.
 
@@ -341,7 +341,7 @@ Section Headers:
 
 다음으로 sh_link와 sh_info의 경우 sh_type에 따라서 아래의 그림과같이 다양한 의미로 쓰이게 되는데,
 
-![image-20231006152734451.png](/img/user/CTF/Basic/assets/ELF%20%ED%8C%8C%EC%9D%BC%20%ED%98%95%EC%8B%9D%EC%97%90%EC%84%9C%20%EC%9E%AC%EB%B0%B0%EC%B9%98(Relocation),%20%EB%A7%81%ED%82%B9(Linking)%20%EA%B9%8C%EC%A7%80/image-20231006152734451.png)
+![[image-20231006152734451.png-center\|image-20231006152734451.png-center]]
 
 우리가 관심 있는 ==재배치 가능==(.rel, .rela 영역)의 경우 보통 *Index*을 의미하게 된다.
 
@@ -384,11 +384,11 @@ Section Headers:
 
 sh_link 와 sh_info의 의미를 생각해서 각 Section에 대한 그림을 그리면 다음과 같다.
 
-![image-20231006154233302.png](/img/user/CTF/Basic/assets/ELF%20%ED%8C%8C%EC%9D%BC%20%ED%98%95%EC%8B%9D%EC%97%90%EC%84%9C%20%EC%9E%AC%EB%B0%B0%EC%B9%98(Relocation),%20%EB%A7%81%ED%82%B9(Linking)%20%EA%B9%8C%EC%A7%80/image-20231006154233302.png)
+![[image-20231006154233302.png-center-round\|image-20231006154233302.png-center-round]]
 
 실제 재배치에 필요한 정보를 가지는  Symbol Table Section 과 Relocation Section은 [[CTF/Basic/ELF 파일 형식에서 재배치(Relocation), 링킹(Linking) 까지#File header\|위와]]같이 각각 엔트리로 구성되어 있다. 
 
-![image-20231006184427053.png](/img/user/CTF/Basic/assets/ELF%20%ED%8C%8C%EC%9D%BC%20%ED%98%95%EC%8B%9D%EC%97%90%EC%84%9C%20%EC%9E%AC%EB%B0%B0%EC%B9%98(Relocation),%20%EB%A7%81%ED%82%B9(Linking)%20%EA%B9%8C%EC%A7%80/image-20231006184427053.png)
+![[image-20231006184427053.png-center-round\|image-20231006184427053.png-center-round]]
 
 
 
@@ -571,7 +571,7 @@ func_A의 R_X86_64_PLT32 형식의 경우 Dynamic Linking와 관련된 Relocatio
 먼저 *global_var*을 대상으로 지금까지 정리한 내용을 이용하여 값을 계산해 보자.
 
 전체적인 구조는 다음과 같다.
-![image-20231010151410269.png](/img/user/CTF/Basic/assets/ELF%20%ED%8C%8C%EC%9D%BC%20%ED%98%95%EC%8B%9D%EC%97%90%EC%84%9C%20%EC%9E%AC%EB%B0%B0%EC%B9%98(Relocation),%20%EB%A7%81%ED%82%B9(Linking)%20%EA%B9%8C%EC%A7%80/image-20231010151410269.png)
+![[image-20231010151410269.png-center\|image-20231010151410269.png-center]]
 
 계산식은 다음과 같고
 Address: <span class="green">S</span> + <span class="blue">A</span> - <span class="yellow">P</span>  
@@ -619,7 +619,7 @@ Dynamic Linking의 경우 이론적은 부분과 실제 동작하는 부분에�
 구조의 경우 [[CTF/Basic/ELF 파일 형식에서 재배치(Relocation), 링킹(Linking) 까지#Symbol Table Entry(.symtab)\|Symbol Table Entry]]와 동일한 구조를 가지고 구조체 또한 같은 구조체를 가진다.
 
 Symbol Table Entry와 같이 그림으로 나타내면 다음과 같다.
-![image-20231025113003181.png](/img/user/CTF/Basic/assets/ELF%20%ED%8C%8C%EC%9D%BC%20%ED%98%95%EC%8B%9D%EC%97%90%EC%84%9C%20%EC%9E%AC%EB%B0%B0%EC%B9%98(Relocation),%20%EB%A7%81%ED%82%B9(Linking)%20%EA%B9%8C%EC%A7%80/image-20231025113003181.png)
+![[image-20231025113003181.png-center-round\|image-20231025113003181.png-center-round]]
 
 
 `.dynsym`의 값을 `readelf`명령어를 통하여 읽어보면 다음과 같다.
@@ -723,7 +723,7 @@ ELF 파일의 형식 과 실제 실행파일이 운영체제에서 동작하기 
 필요한 경우 옆에 같이 두면서 한 번 더 읽으면 이해하기 수월할 것이다.
 
 
-![image-20231010161636907.png](/img/user/CTF/Basic/assets/ELF%20%ED%8C%8C%EC%9D%BC%20%ED%98%95%EC%8B%9D%EC%97%90%EC%84%9C%20%EC%9E%AC%EB%B0%B0%EC%B9%98(Relocation),%20%EB%A7%81%ED%82%B9(Linking)%20%EA%B9%8C%EC%A7%80/image-20231010161636907.png)
+![[image-20231010161636907.png-center\|image-20231010161636907.png-center]]
 
 ### st_info 필드의 의미
 
