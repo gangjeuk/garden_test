@@ -4,39 +4,41 @@
 
 
 ![_309e3b24-846f-46fc-9eb5-6a9f17ad6799.jpg|masthead|900](/img/user/data/img/%EB%B8%94%EB%A1%9C%EA%B7%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/_309e3b24-846f-46fc-9eb5-6a9f17ad6799.jpg)
-Hello I'm Kang Jeuk.
+#  Welcome!
 
-# Calendar
-# Family
-- 🏈 Sunday Game
-	- SCUBA
-- 👨‍👩‍👦 Objectives
-	- [[일기/일기\|일기]]
-- 🌅 Book 
-	- [[기록/목차\|목차]]
-- 🎥 Movie
-	- [[기록/목차#감상평\|감상평]]
+# Recent
+
+| Title                                                                                                     | Cover       |
+| --------------------------------------------------------------------------------------------------------- | ----------- |
+| [[지식나눔/옴시디언 사용법 정리\|옴시디언 사용법 정리]]                                                                      | ![\|60](\-) |
+| [[지식나눔/Linux cmd/Bash\|Bash]]                                                                          | ![\|60](\-) |
+| [[CTF/Basic/ELF 파일 형식에서 재배치(Relocation), 링킹(Linking) 까지\|ELF 파일 형식에서 재배치(Relocation), 링킹(Linking) 까지]] | ![\|60](\-) |
+| [[CTF/SECCON Beginners 2023/switchable_cat\|switchable_cat]]                                           | ![\|60](\-) |
+| [[CTF/picoCTF/SideChannel\|SideChannel]]                                                               | ![\|60](\-) |
+| [[지식나눔/옵시디언 & PARA\|옵시디언 & PARA]]                                                                      | ![\|60](\-) |
+| [[C 언어/목차\|목차]]                                                                                        | ![\|60](\-) |
+| [[운영체제/목차\|목차]]                                                                                        | ![\|60](\-) |
+| [[컴파일러/목차\|목차]]                                                                                        | ![\|60](\-) |
+| [[지식나눔/Vim 사용법 정리\|Vim 사용법 정리]]                                                                        | ![\|60](\-) |
+| [[컴퓨터 공학 기초/컴퓨터의 시작, 계산기\|컴퓨터의 시작, 계산기]]                                                               | ![\|60](\-) |
+| [[지식나눔/tmux 사용법 정리\|tmux 사용법 정리]]                                                                      | ![\|60](\-) |
+| [[컴퓨터 공학 기초/목차\|목차]]                                                                                   | ![\|60](\-) |
+
+{ .block-language-dataview}
+
+# [[기록/목차\|Readings]]
+
+| Cover                                                                                   | Title                                                                                                      |
+| --------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------- |
+| ![\|60](https://shopping-phinf.pstatic.net/main_3248777/32487774584.20230921084037.jpg) | [[기록/타치바나 다카시(立花隆)/자기 역사를 쓴다는 것 (역사의 흐름 속에서 개인이 삶을 기록하는 방법)\|자기 역사를 쓴다는 것 (역사의 흐름 속에서 개인이 삶을 기록하는 방법)]] |
+| ![\|60](https://shopping-phinf.pstatic.net/main_3243615/32436153935.20221019125322.jpg) | [[기록/타치바나 다카시(立花隆)/나는 이런 책을 읽어 왔다 (다치바나 식 독서론, 독서술, 서재론)\|나는 이런 책을 읽어 왔다 (다치바나 식 독서론, 독서술, 서재론)]]       |
+| ![\|60](https://shopping-phinf.pstatic.net/main_3246350/32463500674.20230523090624.jpg) | [[기록/독후감/폴트 라인(Fault Lines)\|폴트 라인 (보이지 않는 균열이 어떻게 세계 경제를 위협하는가)]]                                      |
+| ![\|60](https://contents.kyobobook.co.kr/sih/fit-in/458x0/pdt/9788958207450.jpg)        | [[기록/독후감/우연과 필연(궁리하는 과학 6) - 자크모노\|우연과 필연(궁리하는 과학 6)]]                                                  |
+| ![\|60](https://shopping-phinf.pstatic.net/main_3245689/32456894396.20230815080409.jpg) | [[기록/독후감/예루살렘의 아이히만\|예루살렘의 아이히만 (악의 평범성에 대한 보고서)]]                                                      |
+
+{ .block-language-dataview}
 
 
- # Personal Projects
-- 🏡 Remodeling Projects
-	- 블로그
- - ✍️ Writing Project
-	- [[지식나눔/컴퓨터 공학 총 정리\|컴퓨터 공학 총 정리]]
-- 📚 Learning
-	- Project
+# 💼  Projects
+- MYBOX
 
-# Work
-- 💼 Projects
-	- MYBOX
-
-
-# Vault Info
-- 🗄️ Recent file updates
- [object Promise]
-- 🔖 Tagged:  TODO
- [object Promise]
-- 〽️ Stats
-	-  File Count: 226
-
-# TODO
