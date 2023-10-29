@@ -7,7 +7,14 @@
 #  Welcome!
 
 # Recent
+## Study
 
+- [![CTF/Basic/assets/ELF 파일 형식에서 재배치(Relocation), 링킹(Linking) 까지/image-20231010161636907.png](/img/user/CTF/Basic/assets/ELF%20%ED%8C%8C%EC%9D%BC%20%ED%98%95%EC%8B%9D%EC%97%90%EC%84%9C%20%EC%9E%AC%EB%B0%B0%EC%B9%98(Relocation),%20%EB%A7%81%ED%82%B9(Linking)%20%EA%B9%8C%EC%A7%80/image-20231010161636907.png)](<ELF 파일 형식에서 재배치(Relocation), 링킹(Linking) 까지>)
+- [\-](<switchable_cat>)
+- [\-](<SideChannel>)
+
+{ .block-language-dataview}
+## All Recent
 | Title                                                                                                     | Cover                                                                                                                              |
 | --------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------- |
 | [[지식나눔/옴시디언 사용법 정리\|옴시디언 사용법 정리]]                                                                      | ![\|60](\-)                                                                                                                        |
@@ -27,21 +34,19 @@
 { .block-language-dataview}
 
 # [[기록/목차\|Readings]] 
-- ![CTF/Basic/assets/ELF 파일 형식에서 재배치(Relocation), 링킹(Linking) 까지/image-20231010161636907.png](/img/user/CTF/Basic/assets/ELF%20%ED%8C%8C%EC%9D%BC%20%ED%98%95%EC%8B%9D%EC%97%90%EC%84%9C%20%EC%9E%AC%EB%B0%B0%EC%B9%98(Relocation),%20%EB%A7%81%ED%82%B9(Linking)%20%EA%B9%8C%EC%A7%80/image-20231010161636907.png)
-- \-
-- \-
+<div class="book-cover">
+
+- ![|150](https://shopping-phinf.pstatic.net/main_3248777/32487774584.20230921084037.jpg)
+- ![|150](https://shopping-phinf.pstatic.net/main_3243615/32436153935.20221019125322.jpg)
+- ![|150](https://shopping-phinf.pstatic.net/main_3246350/32463500674.20230523090624.jpg)
+- ![|150](https://contents.kyobobook.co.kr/sih/fit-in/458x0/pdt/9788958207450.jpg)
+- ![|150](https://shopping-phinf.pstatic.net/main_3245689/32456894396.20230815080409.jpg)
 
 { .block-language-dataview}
+</div>
+This is linked image [![banner.jpg|100](/img/user/%EA%B8%B0%EB%A1%9D/assets/banner.jpg)](<obsidian://open?vault=Obsidian_test&file=%EC%A7%80%EC%8B%9D%EB%82%98%EB%88%94%2FVim%20%EC%82%AC%EC%9A%A9%EB%B2%95%20%EC%A0%95%EB%A6%AC>)
 
-- ![|100](https://shopping-phinf.pstatic.net/main_3248777/32487774584.20230921084037.jpg)
-- ![|100](https://shopping-phinf.pstatic.net/main_3243615/32436153935.20221019125322.jpg)
-- ![|100](https://shopping-phinf.pstatic.net/main_3246350/32463500674.20230523090624.jpg)
-- ![|100](https://contents.kyobobook.co.kr/sih/fit-in/458x0/pdt/9788958207450.jpg)
-- ![|100](https://shopping-phinf.pstatic.net/main_3245689/32456894396.20230815080409.jpg)
 
-{ .block-language-dataview}
-
-This is linked image [![banner.jpg](/img/user/%EA%B8%B0%EB%A1%9D/assets/banner.jpg)](<Vim 사용법 정리>)
 
 # 💼  Projects
 - MYBOX
