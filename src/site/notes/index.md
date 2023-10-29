@@ -9,9 +9,9 @@
 # Recent
 ## Study
 
-- [![CTF/Basic/assets/ELF 파일 형식에서 재배치(Relocation), 링킹(Linking) 까지/image-20231010161636907.png|150](/img/user/CTF/Basic/assets/ELF%20%ED%8C%8C%EC%9D%BC%20%ED%98%95%EC%8B%9D%EC%97%90%EC%84%9C%20%EC%9E%AC%EB%B0%B0%EC%B9%98(Relocation),%20%EB%A7%81%ED%82%B9(Linking)%20%EA%B9%8C%EC%A7%80/image-20231010161636907.png)](<CTF/Basic/ELF 파일 형식에서 재배치(Relocation), 링킹(Linking) 까지.md>)
-- [\-](<CTF/SECCON Beginners 2023/switchable_cat.md>)
-- [\-](<CTF/picoCTF/SideChannel.md>)
+- [![CTF/Basic/assets/ELF 파일 형식에서 재배치(Relocation), 링킹(Linking) 까지/image-20231010161636907.png|150](/img/user/CTF/Basic/assets/ELF%20%ED%8C%8C%EC%9D%BC%20%ED%98%95%EC%8B%9D%EC%97%90%EC%84%9C%20%EC%9E%AC%EB%B0%B0%EC%B9%98(Relocation),%20%EB%A7%81%ED%82%B9(Linking)%20%EA%B9%8C%EC%A7%80/image-20231010161636907.png)](<CTF/Basic/ELF 파일 형식에서 재배치(Relocation), 링킹(Linking) 까지>)
+- [\-](<CTF/SECCON Beginners 2023/switchable_cat>)
+- [\-](<CTF/picoCTF/SideChannel>)
 
 { .block-language-dataview}
 ## All Recent
