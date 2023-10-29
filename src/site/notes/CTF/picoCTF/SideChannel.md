@@ -1,11 +1,7 @@
 ---
-tags:
-  - forensics
-  - side_channel
-  - timing_based
-created: 2023-09-10
-dg-publish: true
+{"dg-publish":true,"permalink":"/CTF/picoCTF/SideChannel/","tags":["forensics","side_channel","timing_based"],"created":"2023-09-10"}
 ---
+
 
 
 # 풀이

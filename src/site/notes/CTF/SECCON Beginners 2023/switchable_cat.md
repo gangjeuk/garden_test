@@ -1,11 +1,7 @@
 ---
-tags:
-  - SECCON_Beginners_2023
-  - crypto
-  - Medium
-created: 2023-09-10
-dg-publish: true
+{"dg-publish":true,"permalink":"/CTF/SECCON Beginners 2023/switchable_cat/","tags":["SECCON_Beginners_2023","crypto","Medium"],"created":"2023-09-10"}
 ---
+
 
 # reference
 [SECCON Beginners CTF 2023 作問者Writeup - Qiita](https://qiita.com/ushigai_sub/items/f1d0593f52590fe10ca3)
