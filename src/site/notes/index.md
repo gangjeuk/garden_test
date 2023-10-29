@@ -9,9 +9,9 @@
 # Recent
 ## Study
 
-- [![CTF/Basic/assets/ELF 파일 형식에서 재배치(Relocation), 링킹(Linking) 까지/image-20231010161636907.png](/img/user/CTF/Basic/assets/ELF%20%ED%8C%8C%EC%9D%BC%20%ED%98%95%EC%8B%9D%EC%97%90%EC%84%9C%20%EC%9E%AC%EB%B0%B0%EC%B9%98(Relocation),%20%EB%A7%81%ED%82%B9(Linking)%20%EA%B9%8C%EC%A7%80/image-20231010161636907.png)](<ELF 파일 형식에서 재배치(Relocation), 링킹(Linking) 까지>)
-- [\-](<switchable_cat>)
-- [\-](<SideChannel>)
+- [![CTF/Basic/assets/ELF 파일 형식에서 재배치(Relocation), 링킹(Linking) 까지/image-20231010161636907.png](/img/user/CTF/Basic/assets/ELF%20%ED%8C%8C%EC%9D%BC%20%ED%98%95%EC%8B%9D%EC%97%90%EC%84%9C%20%EC%9E%AC%EB%B0%B0%EC%B9%98(Relocation),%20%EB%A7%81%ED%82%B9(Linking)%20%EA%B9%8C%EC%A7%80/image-20231010161636907.png)|150](<CTF/Basic/ELF 파일 형식에서 재배치(Relocation), 링킹(Linking) 까지.md>)
+- [\-|150](<CTF/SECCON Beginners 2023/switchable_cat.md>)
+- [\-|150](<CTF/picoCTF/SideChannel.md>)
 
 { .block-language-dataview}
 ## All Recent
@@ -44,7 +44,7 @@
 
 { .block-language-dataview}
 </div>
-This is linked image [![banner.jpg|100](/img/user/%EA%B8%B0%EB%A1%9D/assets/banner.jpg)](<obsidian://open?vault=Obsidian_test&file=%EC%A7%80%EC%8B%9D%EB%82%98%EB%88%94%2FVim%20%EC%82%AC%EC%9A%A9%EB%B2%95%20%EC%A0%95%EB%A6%AC>)
+
 
 
 
