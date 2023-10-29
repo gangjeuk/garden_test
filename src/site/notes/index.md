@@ -18,10 +18,10 @@
 <div class="book-cover">
 
 - ![|150](https://shopping-phinf.pstatic.net/main_3248777/32487774584.20230921084037.jpg)
-- ![|150](https://shopping-phinf.pstatic.net/main_3243615/32436153935.20221019125322.jpg)
-- ![|150](https://shopping-phinf.pstatic.net/main_3246350/32463500674.20230523090624.jpg)
 - ![|150](https://contents.kyobobook.co.kr/sih/fit-in/458x0/pdt/9788958207450.jpg)
 - ![|150](https://shopping-phinf.pstatic.net/main_3245689/32456894396.20230815080409.jpg)
+- ![|150](https://shopping-phinf.pstatic.net/main_3786198/37861981639.20230801122828.jpg)
+- ![|150]([[기록/assets/소피스트적 논박에 대하여/image-20230924152130758.png|150]])
 
 { .block-language-dataview}
 </div>
