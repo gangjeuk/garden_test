@@ -1,0 +1,139 @@
+@charset "UTF-8";
+/* @settings
+name: AnuPpuccin Themes Extended
+id: anuppuccin-theme-settings-extended
+settings:
+  -
+    id: anp-theme-ext-light
+    title: Toggle extended light theme
+    type: class-toggle
+  -
+    id: anp-theme-ext-dark
+    title: Toggle extended dark theme
+    type: class-toggle
+  -
+    id: anp-theme-ext-amoled
+    title: Toggle amoled black on all themes
+    type: class-toggle
+  - 
+    id: catppuccin-theme-extended
+    title: Light theme flavor
+    description: Select your preferred light mode flavor
+    type: class-select
+    allowEmpty: false
+    default: ctp-nord-light
+    options:
+        - 
+            label: Atom
+            value: ctp-atom-light
+        - 
+            label: Everforest
+            value: ctp-everforest-light
+        - 
+            label: Gruvbox
+            value: ctp-gruvbox-light
+        - 
+            label: Material Mint
+            value: ctp-material-mint-light
+        - 
+            label: Luminescence
+            value: ctp-luminescence-light
+        - 
+            label: Nord
+            value: ctp-nord-light
+        - 
+            label: Notion
+            value: ctp-notion-light
+        - 
+            label: Sandy Beaches
+            value: ctp-sandy-beaches-light
+        - 
+            label: Solarized
+            value: ctp-solarized-light
+  - 
+    id: catppuccin-theme-dark-extended
+    title: Dark theme flavor
+    description: Select your preferred dark mode flavor
+    type: class-select
+    allowEmpty: false
+    default: ctp-nord-dark
+    options:
+        -
+            label: AMOLED Dark
+            value: ctp-amoled-dark
+        -
+            label: Atom
+            value: ctp-atom-dark
+        -
+            label: Coffee
+            value: ctp-coffee-dark
+        -
+            label: Dark (Generic)
+            value: ctp-generic-dark
+        -
+            label: Dracula
+            value: ctp-dracula
+        -
+            label: Everforest
+            value: ctp-everforest-dark
+        -
+            label: Gruvbox
+            value: ctp-gruvbox-dark
+        -
+            label: Kanagawa
+            value: ctp-kanagawa-dark
+        -
+            label: Material Mint
+            value: ctp-material-mint-dark
+        -
+            label: Nord
+            value: ctp-nord-dark
+        -
+            label: Notion
+            value: ctp-notion-dark
+        -
+            label: Nord Dark (Custom palette)
+            value: ctp-nord-darker
+        -
+            label: Rosé Pine
+            value: ctp-rosepine-dark
+        -
+            label: Rosebox
+            value: ctp-rosebox
+        -
+            label: Royal Velvet
+            value: ctp-royal-velvet
+        -
+            label: Solarized
+            value: ctp-solarized-dark
+*/
+
+
+.theme-dark {
+  --ctp-ext-rosewater: 246, 201, 153;
+  --ctp-ext-flamingo: 245, 189, 166;
+  --ctp-ext-pink: 228, 157, 248;
+  --ctp-ext-mauve: 189, 147, 249;
+  --ctp-ext-red: 255, 85, 85;
+  --ctp-ext-maroon: 230, 102, 102;
+  --ctp-ext-peach: 255, 184, 108;
+  --ctp-ext-yellow: 241, 250, 140;
+  --ctp-ext-green: 80, 250, 123;
+  --ctp-ext-teal: 104, 219, 211;
+  --ctp-ext-sky: 139, 233, 253;
+  --ctp-ext-sapphire: 104, 197, 240;
+  --ctp-ext-blue: 95, 126, 222;
+  --ctp-ext-lavender: 197, 146, 222;
+  --ctp-ext-text: 248, 248, 242;
+  --ctp-ext-subtext1: 211, 211, 197;
+  --ctp-ext-subtext0: 191, 191, 181;
+  --ctp-ext-overlay2: 139, 143, 167;
+  --ctp-ext-overlay1: 110, 114, 145;
+  --ctp-ext-overlay0: 88, 92, 116;
+  --ctp-ext-surface2: 68, 71, 90;
+  --ctp-ext-surface1: 56, 59, 76;
+  --ctp-ext-surface0: 48, 50, 65;
+  --ctp-ext-base: 40, 42, 54;
+  --ctp-ext-mantle: 33, 34, 44;
+  --ctp-ext-crust: 26, 27, 35;
+}
