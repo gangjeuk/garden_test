@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/지식나눔/옵시디언 & PARA/","created":"2023-09-20"}
+{"dg-publish":true,"dg-path":"kr지식나눔/옵시디언 & PARA.md","permalink":"/kr지식나눔/옵시디언 & PARA/","created":"2023-09-20"}
 ---
 
 # Obsidian을 PARA 형식으로 노트 정리하기
