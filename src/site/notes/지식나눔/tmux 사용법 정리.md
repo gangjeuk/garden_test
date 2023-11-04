@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"kr/지식나눔/tmux 사용법 정리.md","permalink":"/kr/지식나눔/tmux 사용법 정리/"}
+{"dg-publish":true,"dg-path":"kr//지식나눔/tmux 사용법 정리.md","permalink":"/kr//지식나눔/tmux 사용법 정리/"}
 ---
 
 
