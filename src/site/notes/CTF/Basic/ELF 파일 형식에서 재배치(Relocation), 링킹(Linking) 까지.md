@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"krCTF/Basic/ELF 파일 형식에서 재배치(Relocation), 링킹(Linking) 까지.md","permalink":"/krCTF/Basic/ELF 파일 형식에서 재배치(Relocation), 링킹(Linking) 까지/","tags":["CTF/basic","TODO/got_plt_tls_파일내용과_같이_검토_필요"],"created":"2023-10-10","updated":"2023-10-28"}
+{"dg-publish":true,"dg-path":"kr/CTF/Basic/ELF 파일 형식에서 재배치(Relocation), 링킹(Linking) 까지.md","permalink":"/kr/CTF/Basic/ELF 파일 형식에서 재배치(Relocation), 링킹(Linking) 까지/","tags":["CTF/basic","TODO/got_plt_tls_파일내용과_같이_검토_필요"],"created":"2023-10-10","updated":"2023-10-28"}
 ---
 
 # Reference
