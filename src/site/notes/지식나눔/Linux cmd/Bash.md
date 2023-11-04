@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/지식나눔/Linux cmd/Bash/","created":"2023-04-11"}
+{"dg-publish":true,"dg-path":"kr지식나눔/Linux cmd/Bash.md","permalink":"/kr지식나눔/Linux cmd/Bash/","created":"2023-04-11"}
 ---
 
 
