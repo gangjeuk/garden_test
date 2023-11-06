@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"deep_jp/notes","permalink":"//","dgShowLocalGraph":"false","dgShowFileTree":"false","dgShowToc":"false"}
+{"dg-publish":true,"permalink":"/jp/jp/","dgShowLocalGraph":"false","dgShowFileTree":"false","dgShowToc":"false"}
 ---
 
 
@@ -11,6 +11,8 @@
 { .block-language-dataview}
 <div class="study-covers">
 
+- [![jp/CTF/Basic/assets/ELF from scratch/image-20231010161636907.png](/img/user/jp/CTF/Basic/assets/ELF%20from%20scratch/image-20231010161636907.png)](<kr/jp/CTF/Basic/ELF from scratch>)<div class=content-name>ELF from scratch</div><div class=content-tags>#CTF/basic</div>
+- [![kr/기록/assets/banner.jpg](/img/user/kr/%EA%B8%B0%EB%A1%9D/assets/banner.jpg)](<kr/jp/CTF/SECCON Beginners 2023/switchable_cat>)<div class=content-name>switchable_cat</div><div class=content-tags>#SECCON_Beginners_2023, #crypto, #Medium</div>
 
 { .block-language-dataview}
 </div>
