@@ -11,9 +11,9 @@
 { .block-language-dataview}
 <div class="study-covers">
 
-- [![kr/CTF/Basic/assets/ELF 파일 형식에서 재배치(Relocation), 링킹(Linking) 까지/image-20231010161636907.png](/img/user/kr/CTF/Basic/assets/ELF%20%ED%8C%8C%EC%9D%BC%20%ED%98%95%EC%8B%9D%EC%97%90%EC%84%9C%20%EC%9E%AC%EB%B0%B0%EC%B9%98(Relocation),%20%EB%A7%81%ED%82%B9(Linking)%20%EA%B9%8C%EC%A7%80/image-20231010161636907.png)](<kr/CTF/Basic/ELF 파일 형식에서 재배치(Relocation), 링킹(Linking) 까지>)<div class=content-name>ELF 파일 형식에서 재배치(Relocation), 링킹(Linking) 까지</div><div class=content-tags>#CTF/basic</div>
-- [![kr/기록/assets/banner.jpg](/img/user/kr/%EA%B8%B0%EB%A1%9D/assets/banner.jpg)](<kr/CTF/SECCON Beginners 2023/switchable_cat>)<div class=content-name>switchable_cat</div><div class=content-tags>#SECCON_Beginners_2023, #crypto, #Medium</div>
-- [![kr/기록/assets/banner.jpg](/img/user/kr/%EA%B8%B0%EB%A1%9D/assets/banner.jpg)](<kr/CTF/picoCTF/SideChannel>)<div class=content-name>SideChannel</div><div class=content-tags>#forensics, #side_channel, #timing_based</div>
+- [![kr/CTF/Basic/assets/ELF 파일 형식에서 재배치(Relocation), 링킹(Linking) 까지/image-20231010161636907.png](/img/user/kr/CTF/Basic/assets/ELF%20%ED%8C%8C%EC%9D%BC%20%ED%98%95%EC%8B%9D%EC%97%90%EC%84%9C%20%EC%9E%AC%EB%B0%B0%EC%B9%98(Relocation),%20%EB%A7%81%ED%82%B9(Linking)%20%EA%B9%8C%EC%A7%80/image-20231010161636907.png)](</kr/CTF/Basic/ELF 파일 형식에서 재배치(Relocation), 링킹(Linking) 까지>)<div class=content-name>ELF 파일 형식에서 재배치(Relocation), 링킹(Linking) 까지</div><div class=content-tags>#CTF/basic</div>
+- [![kr/기록/assets/banner.jpg](/img/user/kr/%EA%B8%B0%EB%A1%9D/assets/banner.jpg)](</kr/CTF/SECCON Beginners 2023/switchable_cat>)<div class=content-name>switchable_cat</div><div class=content-tags>#SECCON_Beginners_2023, #crypto, #Medium</div>
+- [![kr/기록/assets/banner.jpg](/img/user/kr/%EA%B8%B0%EB%A1%9D/assets/banner.jpg)](</kr/CTF/picoCTF/SideChannel>)<div class=content-name>SideChannel</div><div class=content-tags>#forensics, #side_channel, #timing_based</div>
 
 { .block-language-dataview}
 </div>
