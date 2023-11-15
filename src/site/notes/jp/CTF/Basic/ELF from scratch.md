@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/jp/CTF/Basic/ELF from scratch/","tags":["CTF/basic","TODO/got_plt_tls_파일내용과_같이_검토_필요"],"created":"2023-10-10","updated":"2023-10-28"}
+{"dg-publish":true,"permalink":"/jp/CTF/Basic/ELF from scratch/","tags":["CTF/basic/ELF"],"created":"2023-10-10","updated":"2023-10-28"}
 ---
 
 # Reference
